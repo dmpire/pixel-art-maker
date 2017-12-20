@@ -1,16 +1,7 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+## Project Description
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
-
-## Instructions
-
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Basically this is a pixel art maker with dynamically created grids 
+as well as a color pallette from which users can choose to color the grid boxes. 
+It is built with jQuery (A JavaScript framework). 
